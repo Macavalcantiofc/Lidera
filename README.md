@@ -132,3 +132,42 @@ A trajetória desejada é:
 ---
 
 **Lidera** é o registro e o sistema operacional pessoal da jornada para se tornar um líder de tecnologia capaz de atuar em níveis crescentes de responsabilidade e impacto.
+
+
+## Base de evidências para liderança
+
+O processo de preparação para coordenação agora possui uma camada separada de **evidências profissionais**. A ideia é preservar fatos, experiências, resultados, aprendizados e hipóteses de liderança antes de transformá-los em narrativas de entrevista.
+
+### Frentes de evidência
+
+- [Trajetória profissional](evidencias/trajetoria.md) — origem, evolução de carreira, responsabilidades e reconhecimentos.
+- [Pessoas e liderança](evidencias/pessoas-e-lideranca.md) — desenvolvimento de profissionais, liderança situacional, conflitos e empowerment.
+- [Negócio, produto e impacto](evidencias/negocio-produto-impacto.md) — decisões orientadas a valor, casos de negócio e resultados.
+- [Engenharia e arquitetura](evidencias/engenharia-arquitetura.md) — evolução técnica, arquitetura, sistemas distribuídos e visão sistêmica.
+- [Influência e evolução](evidencias/influencia-evolucao.md) — influência sem autoridade, reconhecimento e progressão de escopo.
+- [Visão de liderança](evidencias/visao-de-lideranca.md) — princípios, evolução do raio de influência e tese de prontidão.
+
+### Histórias-mãe
+
+As evidências são consolidadas em histórias que podem ser reutilizadas em diferentes situações de entrevista:
+
+[Histórias-mãe](narrativas/historias-mae.md)
+
+A estrutura inicial possui cinco narrativas:
+- pessoas;
+- negócio e impacto;
+- engenharia e visão sistêmica;
+- maturidade e aprendizado;
+- liderança atual.
+
+### Pitch experimental
+
+O primeiro pitch construído a partir do levantamento está em:
+
+[Pitch Experimental V0](narrativas/pitch-experimental.md)
+
+O pitch é deliberadamente tratado como **artefato experimental**, e não como versão definitiva. O fluxo esperado é:
+
+**evidência → história → narrativa → teste oral → feedback → revisão → nova versão**
+
+Isso evita transformar o processo em memorização de um texto e mantém o foco em evidências reais de liderança.
