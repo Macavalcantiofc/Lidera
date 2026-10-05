@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lidera | Coordenador Itaú</title>
+<style>
+:root{--bg:#0b0d12;--panel:#121621;--panel2:#181d29;--text:#f3f5f7;--muted:#a9b1bf;--accent:#ff7a00;--line:#293142;--good:#55d187}
+*{box-sizing:border-box} body{margin:0;background:radial-gradient(circle at top right,#2b1b0d 0,#0b0d12 35%);color:var(--text);font:16px/1.65 Inter,system-ui,-apple-system,Segoe UI,sans-serif}
+header{padding:56px max(24px,calc((100% - 1120px)/2)) 32px;border-bottom:1px solid var(--line)}
+.eyebrow{color:var(--accent);font-weight:800;letter-spacing:.12em;text-transform:uppercase;font-size:12px}
+h1{font-size:clamp(36px,6vw,64px);line-height:1;margin:12px 0}.hero{max-width:760px;color:var(--muted);font-size:19px}
+.badges{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}.badge{border:1px solid var(--line);padding:7px 12px;border-radius:999px;background:#11151d}
+nav{position:sticky;top:0;z-index:5;background:#0b0d12ee;backdrop-filter:blur(14px);border-bottom:1px solid var(--line);padding:10px max(16px,calc((100% - 1120px)/2));display:flex;gap:8px;overflow:auto}
+button{background:transparent;color:var(--muted);border:1px solid transparent;padding:9px 13px;border-radius:8px;cursor:pointer;white-space:nowrap}button:hover,button.active{background:var(--panel2);color:#fff;border-color:var(--line)}
+main{max-width:1120px;margin:auto;padding:34px 24px 80px}.section{display:none}.section.active{display:block}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:16px}.card{background:linear-gradient(145deg,var(--panel),#0f131b);border:1px solid var(--line);border-radius:16px;padding:22px}
+.card h3{margin-top:0;color:#fff}.accent{border-left:4px solid var(--accent)}
+h2{font-size:30px;margin-top:0}h3{font-size:20px}li{margin:6px 0}
+.timeline{display:grid;grid-template-columns:110px 1fr;gap:0;border:1px solid var(--line);border-radius:16px;overflow:hidden}.timeline>div{padding:18px;border-bottom:1px solid var(--line)}.timeline>div:nth-last-child(-n+2){border-bottom:0}
+.time{font-weight:800;color:var(--accent)}
+blockquote{margin:20px 0;padding:20px;border-left:4px solid var(--accent);background:var(--panel);border-radius:0 12px 12px 0;font-size:19px}
+.score{font-size:34px;font-weight:900;color:var(--good)}footer{max-width:1120px;margin:auto;padding:24px;color:var(--muted);border-top:1px solid var(--line)}
+small{color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+<div class="eyebrow">Lidera • Interview Lab</div>
+<h1>Coordenador Itaú</h1>
+<p class="hero">Um laboratório de preparação para transformar experiência técnica em uma narrativa executiva de liderança, com pitch de até 4 minutos e simulações orais.</p>
+<div class="badges"><span class="badge">🎯 Pitch 4 min</span><span class="badge">🎙️ Testes orais</span><span class="badge">🧠 Liderança</span><span class="badge">🏦 Itaú Tech</span></div>
+</header>
+<nav>
+<button class="active" data-tab="visao">Visão</button>
+<button data-tab="pitch">Pitch</button>
+<button data-tab="oral">Testes orais</button>
+<button data-tab="regua">Régua Itaú</button>
+<button data-tab="evidencias">Evidências</button>
+</nav>
+<main>
+<section id="visao" class="section active">
+<h2>O desafio</h2>
+<div class="grid">
+<div class="card accent"><h3>Não é promoção</h3><p>A narrativa não deve ser "quero ser coordenador". Deve ser "já estou ampliando meu impacto e agora quero fazê-lo através de pessoas, decisões e resultados".</p></div>
+<div class="card"><h3>Não é currículo</h3><p>Tecnologias são evidências. O foco é mostrar julgamento, influência, visão sistêmica, pessoas e impacto.</p></div>
+<div class="card"><h3>Não é personagem</h3><p>O objetivo é construir uma narrativa verdadeira, natural e sustentada por experiências reais.</p></div>
+</div>
+<blockquote>“Minha evolução já deixou de ser apenas sobre o que eu consigo entregar sozinho. Hoje penso em como fazer um time entregar melhor.”</blockquote>
+<h2>Modelo Lidera</h2>
+<div class="grid">
+<div class="card"><h3>Aprender</h3><p>Construir repertório técnico, de negócio e liderança.</p></div>
+<div class="card"><h3>Aplicar</h3><p>Transformar conhecimento em comportamento no trabalho.</p></div>
+<div class="card"><h3>Produzir</h3><p>Organizar e comunicar conhecimento.</p></div>
+<div class="card"><h3>Medir</h3><p>Buscar evidências de evolução e impacto.</p></div>
+</div>
+</section>
+
+<section id="pitch" class="section">
+<h2>Pitch de até 4 minutos</h2>
+<div class="timeline">
+<div class="time">0:00–0:30</div><div><b>Identidade.</b><br>Quem você é hoje, sua trajetória e como seu papel evoluiu.</div>
+<div class="time">0:30–1:40</div><div><b>Evidências.</b><br>2 ou 3 histórias de impacto. Contexto → problema → decisão → influência → resultado.</div>
+<div class="time">1:40–2:40</div><div><b>Liderança.</b><br>Mostre liderança técnica, influência sem autoridade, visão sistêmica e desenvolvimento de pessoas.</div>
+<div class="time">2:40–3:25</div><div><b>Por que agora?</b><br>Maturidade técnica + negócio + organização + pessoas.</div>
+<div class="time">3:25–4:00</div><div><b>Futuro.</b><br>Que impacto você pretende gerar como coordenador?</div>
+</div>
+<blockquote>“Não estou buscando coordenação para começar a liderar. Estou buscando coordenação porque já comecei a liderar e quero ampliar meu impacto.”</blockquote>
+<div class="card"><h3>História de referência</h3><p>Modernização de componente legado envolvendo Angular MFE, Java e AWS, conectando diferentes partes da arquitetura e buscando evolução de performance e indicadores. A tecnologia deve aparecer como suporte à decisão e ao resultado, não como protagonista.</p></div>
+</section>
+
+<section id="oral" class="section">
+<h2>Laboratório de testes orais</h2>
+<div class="grid">
+<div class="card"><h3>🔥 Modo Pressão</h3><p>Perguntas incisivas, follow-ups e decisões difíceis. O objetivo é testar consistência sob pressão.</p></div>
+<div class="card"><h3>🎙️ Pitch</h3><p>4 minutos sem interrupção, seguido de scorecard e diagnóstico.</p></div>
+<div class="card"><h3>🧩 Caso</h3><p>Cenários de atraso, conflito, baixa performance, incidente, dependências e corte de custos.</p></div>
+<div class="card"><h3>🏦 Modo Itaú</h3><p>Cliente, risco, resultado, dados, colaboração, decisão, aprendizado, simplificação e tecnologia em escala.</p></div>
+</div>
+<h3>Perguntas essenciais</h3>
+<ul><li>Por que coordenador agora?</li><li>Por que você está pronto?</li><li>Qual seu maior resultado?</li><li>Qual seu maior erro?</li><li>Como você desenvolve pessoas?</li><li>Como trata baixa performance?</li><li>Como mede o sucesso de um time?</li><li>Como conecta tecnologia ao negócio?</li><li>Como lida com dependências?</li><li>O que faria nos primeiros 90 dias?</li></ul>
+</section>
+
+<section id="regua" class="section">
+<h2>Régua para coordenador</h2>
+<div class="grid">
+<div class="card"><h3>Pessoas</h3><p>Desenvolver, dar feedback, lidar com conflitos, criar autonomia e segurança.</p></div>
+<div class="card"><h3>Engenharia</h3><p>Arquitetura, qualidade, modernização, observabilidade, IA e risco.</p></div>
+<div class="card"><h3>Delivery</h3><p>Priorizar, gerenciar dependências, recuperar entregas e comunicar riscos.</p></div>
+<div class="card"><h3>Negócio</h3><p>Cliente, valor, custo, dados, ROI e simplificação.</p></div>
+<div class="card"><h3>Organização</h3><p>Influência, stakeholders, comunidades, alinhamento e redução de silos.</p></div>
+<div class="card"><h3>Impacto</h3><p>Fazer o sistema funcionar melhor, e não apenas resolver o problema da vez.</p></div>
+</div>
+<blockquote>“Se eu te der um time amanhã, por que esse time ficará melhor com você como coordenador?”</blockquote>
+</section>
+
+<section id="evidencias" class="section">
+<h2>Banco de evidências</h2>
+<div class="grid">
+<div class="card"><h3>Modernização</h3><p>Componente legado → arquitetura moderna → impacto em performance/indicadores.</p></div>
+<div class="card"><h3>Visão sistêmica</h3><p>Frontend + backend + integrações + operação + dependências.</p></div>
+<div class="card"><h3>Influência</h3><p>Apresentações, alinhamentos e condução de decisões.</p></div>
+<div class="card"><h3>AI Engineering</h3><p>Construção de repertório para conectar IA, engenharia e futuro da organização.</p></div>
+</div>
+<h2>Scorecard</h2>
+<p>Meta inicial: <span class="score">48/60+</span></p>
+<p>Clareza executiva · Segurança · Síntese · Storytelling · Liderança · Visão sistêmica · Negócio · Pessoas · Tom de coordenador · Evidências · Aderência Itaú · Confiança</p>
+</section>
+</main>
+<footer>Lidera • Interview Lab · preparação contínua: estudar → praticar → refletir → registrar → evoluir</footer>
+<script>
+document.querySelectorAll('button[data-tab]').forEach(b=>b.addEventListener('click',()=>{
+ document.querySelectorAll('button[data-tab]').forEach(x=>x.classList.remove('active'));
+ document.querySelectorAll('.section').forEach(x=>x.classList.remove('active'));
+ b.classList.add('active'); document.getElementById(b.dataset.tab).classList.add('active');
+}));
+</script>
+</body>
+</html>
