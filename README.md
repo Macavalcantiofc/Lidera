@@ -23,8 +23,6 @@ A ideia não é apenas acumular cursos, livros ou anotações. O Lidera organiza
 
 ## Eixos de desenvolvimento
 
-O plano de evolução poderá contemplar diferentes frentes, incluindo:
-
 - **Liderança e gestão de pessoas**
 - **Estratégia e visão de produto**
 - **Arquitetura e engenharia de software**
@@ -37,16 +35,60 @@ O plano de evolução poderá contemplar diferentes frentes, incluindo:
 - **Mentoria e desenvolvimento de talentos**
 - **Produção e compartilhamento de conhecimento**
 
+## Entrevista para Coordenação
+
+O Lidera agora também possui um laboratório específico para preparar a transição de **Tech Lead/Sênior para Coordenador de Engenharia**, com foco em entrevistas internas no Itaú.
+
+### Pitch de 4 minutos
+
+[Skill de Pitch para Coordenador Itaú](skills/pitch-coordenador-itau.md)
+
+A skill estrutura uma narrativa executiva baseada em:
+
+**identidade → evidências → liderança → prontidão → futuro**
+
+O objetivo é demonstrar que a coordenação não é o início da liderança, mas a ampliação do impacto que já vem sendo exercido.
+
+### Testes orais
+
+[Testes Orais para Coordenador Itaú](skills/testes-orais-coordenador-itau.md)
+
+A skill permite conduzir simulações progressivas com:
+
+- perguntas comportamentais;
+- casos de liderança;
+- decisões difíceis;
+- pressão executiva;
+- conflitos;
+- baixa performance;
+- dependências;
+- incidentes;
+- custo e priorização;
+- visão de negócio;
+- IA e engenharia.
+
+### Pesquisa e régua de preparação
+
+[Pesquisa: Entrevista para Coordenação de Engenharia no Itaú](docs/entrevista-coordenador-itau.md)
+
+O material consolida sinais públicos sobre cultura, liderança e posições de engenharia do Itaú e os transforma em uma régua prática de preparação.
+
+### Front de leitura
+
+[**Abrir o Lidera Interview Lab**](docs/index.html)
+
+A interface reúne visualmente o pitch, os testes orais, a régua de competências e o banco de evidências.
+
 ## Registro de aprendizagem
 
 Cada ciclo de estudo deve buscar registrar não apenas **o que foi consumido**, mas principalmente **o que foi compreendido e aplicado**.
 
-Exemplos de registros:
+Exemplos:
 
 - temas estudados;
 - cursos, livros, artigos e palestras;
 - conceitos aprendidos;
-- dúvidas e lacunas identificadas;
+- dúvidas e lacunas;
 - experimentos e exercícios;
 - situações reais em que o conhecimento foi aplicado;
 - decisões e aprendizados;
@@ -58,7 +100,7 @@ Exemplos de registros:
 
 Uma parte importante do Lidera é transformar aprendizagem em **conteúdo produzido**.
 
-O objetivo é utilizar a produção como mecanismo de consolidação do conhecimento, criando materiais como:
+O objetivo é utilizar a produção como mecanismo de consolidação do conhecimento, criando:
 
 - artigos;
 - guias;
@@ -68,9 +110,7 @@ O objetivo é utilizar a produção como mecanismo de consolidação do conhecim
 - resumos técnicos;
 - análises de arquitetura;
 - reflexões sobre liderança;
-- materiais para compartilhamento com outros profissionais.
-
-A premissa é simples:
+- materiais para compartilhamento.
 
 > **Se consigo explicar, aplicar e produzir sobre um assunto, provavelmente avancei além do simples consumo de informação.**
 
@@ -85,14 +125,10 @@ O Lidera deve ajudar a responder continuamente:
 5. **Como comprovo que evoluí?**
 6. **Como transformo conhecimento em impacto para o time e para o negócio?**
 
-O objetivo final é construir uma trajetória de desenvolvimento que vá além da evolução individual como desenvolvedor, ampliando progressivamente a capacidade de:
+A trajetória desejada é:
 
 **construir sistemas → tomar decisões → influenciar pessoas → desenvolver times → alinhar tecnologia e negócio → gerar impacto organizacional**
 
-## Estrutura em evolução
-
-A estrutura do repositório será construída conforme o método de desenvolvimento da jornada for amadurecendo. O conteúdo deve permanecer orientado à prática e à evolução real, evitando transformar o repositório em um simples arquivo de anotações.
-
 ---
 
-**Lidera** é, portanto, o registro e o sistema operacional pessoal da jornada para se tornar um líder de tecnologia capaz de atuar em níveis crescentes de responsabilidade e impacto.
+**Lidera** é o registro e o sistema operacional pessoal da jornada para se tornar um líder de tecnologia capaz de atuar em níveis crescentes de responsabilidade e impacto.
