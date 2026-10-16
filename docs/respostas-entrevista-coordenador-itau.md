@@ -237,3 +237,95 @@ Use **Contexto → Decisão → Ação → Resultado → Aprendizado**:
 Meu próximo passo não é uma recompensa pelo tempo de casa nem apenas pela competência técnica. É uma ampliação de responsabilidade que venho construindo: conectar tecnologia e negócio, desenvolver pessoas e criar condições para que os times entreguem resultados sustentáveis.
 
 Quero ser reconhecido não apenas pelos problemas que resolvo diretamente, mas pela capacidade que ajudo a construir nas pessoas, na engenharia e na organização.
+
+---
+
+# Complemento: dicas do Fabio Ghetti
+
+Esta seção complementa o roteiro com os pontos compartilhados pelo Fabio Ghetti sobre o papel de GTM/coordenação, planejamento, desenvolvimento de pessoas e atuação diante de relatos de assédio ou discriminação.
+
+## 19. Qual é o papel de GTM/coordenação em relação às entregas?
+
+**Resposta sugerida**
+
+Vejo o papel da coordenação como garantir entregas com visão estratégica, alinhadas às necessidades do negócio e sustentáveis ao longo do tempo. Não basta entregar uma funcionalidade: precisamos garantir qualidade, padrões que permitam evolução e reuso, além de produtividade e eficiência.
+
+Também considero essencial manter o planejamento claro e alinhado com o negócio. Isso significa compartilhar prioridades, explicitar dependências e riscos, combinar expectativas com as áreas parceiras e acompanhar se as entregas continuam gerando o valor esperado.
+
+Quando fizer sentido, vou incentivar soluções reutilizáveis e padrões comuns, evitando duplicação de esforço e facilitando manutenção e evolução. Ao mesmo tempo, reuso não deve ser um objetivo isolado: precisa resolver uma necessidade real sem criar complexidade desnecessária.
+
+**Pontos para demonstrar na entrevista:**
+- Como conecto prioridades técnicas a objetivos de negócio.
+- Como alinho planejamento, escopo, dependências e expectativas com Produto e parceiros.
+- Como equilibro prazo, qualidade, produtividade e sustentabilidade.
+- Um exemplo real em que reuso, padronização ou melhoria técnica reduziu esforço ou facilitou evolução.
+
+## 20. Como você desenvolveria pessoas, montaria PDIs e manteria o time engajado?
+
+**Resposta sugerida**
+
+Eu começaria entendendo os objetivos, as motivações e as aspirações de cada pessoa, além das competências necessárias para o time e para o negócio. O desenvolvimento precisa ser individualizado: pessoas diferentes podem ter objetivos, pontos fortes e lacunas diferentes.
+
+A partir dessas conversas, construiria PDIs com objetivos claros, ações práticas, oportunidades de aplicação no trabalho e checkpoints regulares. Um PDI não deve ser apenas um documento; precisa estar conectado a experiências reais, feedbacks e evolução observável.
+
+Também procuraria manter o time engajado dando contexto sobre o impacto do trabalho, envolvendo as pessoas nas decisões, reconhecendo entregas e talentos de forma específica e criando oportunidades de crescimento. Para reter talentos, é importante entender o que cada pessoa valoriza, oferecer desafios compatíveis com seus objetivos e agir quando houver impedimentos ao desenvolvimento.
+
+Como liderança, eu acompanharia tanto a evolução individual quanto a saúde coletiva do time, sem tratar engajamento apenas como responsabilidade da pessoa. Clareza, reconhecimento, autonomia, equidade e coerência da liderança fazem parte do ambiente que construímos.
+
+**Como eu colocaria isso em prática:**
+1. Conversas individuais regulares para entender objetivos e motivadores.
+2. PDIs com poucas prioridades, ações práticas e critérios observáveis.
+3. Checkpoints para revisar evolução, remover impedimentos e ajustar o plano.
+4. Reconhecimento específico de entregas, comportamentos e talentos.
+5. Acompanhamento de engajamento, retenção, crescimento e distribuição de oportunidades.
+
+## 21. Como agiria ao receber um relato de assédio, machismo ou discriminação?
+
+**Resposta sugerida**
+
+Minha primeira responsabilidade seria acolher a pessoa e garantir que ela se sinta ouvida, respeitada e segura para relatar o que aconteceu. Eu escutaria com atenção e empatia, sem julgamento, sem minimizar a experiência e sem pressioná-la a contar mais do que consegue naquele momento.
+
+Reforçaria que levo a situação a sério e explicaria que vou buscar os encaminhamentos adequados, sem prometer um resultado antecipado ou sigilo absoluto. Se houvesse risco imediato à segurança da pessoa, priorizaria medidas urgentes conforme os procedimentos aplicáveis.
+
+Depois, seguiria a política e os procedimentos oficiais do banco. Registraria as informações relevantes de forma objetiva e cuidadosa, distinguindo o que foi relatado do que foi diretamente observado. Quando apropriado, isso pode incluir data, horário, local, pessoas presentes e outros elementos relevantes. Evitaria circular informações desnecessariamente ou conduzir uma investigação informal por conta própria.
+
+Orientaria a pessoa sobre os canais oficiais de apoio e denúncia, que podem incluir os canais internos de ética, o Fique OK e a Ouvidoria, conforme a política vigente e a natureza da situação. Não tentaria substituir esses canais nem exigiria que a pessoa repetisse o relato para várias pessoas sem necessidade.
+
+O suporte não termina no encaminhamento. Eu acompanharia a situação de forma discreta e respeitosa, verificando se a pessoa se sente apoiada e se há risco de retaliação, sempre dentro dos limites de confidencialidade e dos procedimentos aplicáveis.
+
+Como líder, também tenho a responsabilidade de reforçar a cultura e as políticas do banco, agir com imparcialidade e não normalizar comportamentos inadequados por causa da senioridade ou do desempenho de alguém.
+
+**Princípios que orientariam minha atuação:**
+- **Acolher:** escutar com atenção e empatia, sem culpar ou minimizar.
+- **Levar a sério:** explicar que o relato será tratado com responsabilidade.
+- **Registrar com cuidado:** preservar informações relevantes, objetivas e necessárias.
+- **Encaminhar corretamente:** seguir as políticas e os canais oficiais vigentes.
+- **Proteger a privacidade:** compartilhar informações apenas com quem precisa atuar.
+- **Acompanhar:** oferecer suporte contínuo e estar atento a possíveis retaliações.
+
+**Importante:** os nomes dos canais e o procedimento aplicável devem ser confirmados nas políticas internas vigentes do Itaú. A liderança deve seguir esses procedimentos, não prometer confidencialidade absoluta nem tentar resolver isoladamente uma situação que exija encaminhamento formal.
+
+## 22. Como equilibrar entregas e gestão de pessoas?
+
+**Resposta sugerida**
+
+Para mim, entrega e gestão de pessoas não são objetivos concorrentes. Uma equipe bem direcionada, com objetivos claros, competências desenvolvidas e autonomia, tem mais condições de entregar com qualidade e consistência.
+
+Eu alinharia o planejamento com o negócio, deixando claros os resultados esperados, as prioridades, os padrões de qualidade e as dependências. Em paralelo, acompanharia a evolução das pessoas, identificaria lacunas, montaria PDIs e criaria oportunidades de aprendizado conectadas ao trabalho real.
+
+Quando surgirem conflitos entre prazo e qualidade, ou entre uma urgência e o desenvolvimento de longo prazo, eu tornaria os trade-offs explícitos e alinharia as decisões com as partes responsáveis. O objetivo é evitar que a entrega dependa continuamente de sobrecarga ou de poucas pessoas-chave.
+
+O sucesso da coordenação deve aparecer tanto nos resultados entregues quanto na capacidade do time de continuar entregando, evoluindo e colaborando ao longo do tempo.
+
+## Perguntas de aprofundamento que podem surgir dessas dicas
+
+- Como você garante que o planejamento de tecnologia esteja alinhado ao negócio?
+- Como decide quando criar uma solução reutilizável e quando manter algo específico?
+- Como mede produtividade sem incentivar apenas volume de entregas?
+- Como monta um PDI para alguém que não sabe qual carreira quer seguir?
+- Como reconhece talentos sem criar percepção de favoritismo?
+- Como age se uma pessoa talentosa quer sair do time?
+- O que você faria se recebesse um relato de assédio envolvendo uma pessoa de alta senioridade?
+- Como equilibra acolhimento, documentação, confidencialidade e os canais formais do banco?
+- Como garante que o time continue entregando enquanto investe no desenvolvimento das pessoas?
+
