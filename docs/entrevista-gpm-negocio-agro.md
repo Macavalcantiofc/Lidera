@@ -519,3 +519,209 @@ Além das perguntas já listadas neste documento, considere:
 - [ ] Conversar com a liderança atual para entender desafios reais da cadeira e expectativas do negócio.
 - [ ] Confirmar as fases do processo seletivo com o responsável pela vaga.
 - [ ] Reservar tempo para preparação mental antes de cada entrevista.
+
+
+---
+
+## 14. OKRs estratégicos da Visão RT — insumo para a entrevista com GPM
+
+> **Origem:** OKRs compartilhados pelo candidato para preparação da entrevista. Esta seção registra o conteúdo recebido e organiza sua leitura para a conversa. Os valores representados por `x` e `y` permanecem pendentes de confirmação; não devem ser tratados como metas numéricas conhecidas.
+
+### 14.1 Visão consolidada
+
+A Visão RT está organizada em quatro objetivos estratégicos que conectam escala, eficiência da contratação, crescimento sustentável e conformidade regulatória.
+
+| Objetivo | Direção estratégica | Como a engenharia pode contribuir |
+|---|---|---|
+| **O1. Plataforma digital escalável** | Expandir produtos e segmentos com velocidade e conversão superior. | Digitalização E2E, arquitetura escalável, redução de fricções e tempo de contratação. |
+| **O2. Jornada de contratação eficiente** | Garantir escala, eficiência operacional e experiência de excelência. | Redução de custo e esforço operacional, simplificação de fluxos e evolução das plataformas. |
+| **O3. Crescimento sustentável e rentável** | Aumentar conversão de contratações e expandir clientes e negócios Agro. | Habilitar produtos, capacidades e novas linhas de negócio com segurança e velocidade. |
+| **O4. Conformidade como vantagem operacional** | Automatizar controles e mitigar riscos por design. | Qualidade de dados e registros, controles sistêmicos, rastreabilidade e gestão de riscos. |
+
+### 14.2 O1 — Transformar o Agro em uma plataforma digital escalável
+
+**Objetivo estratégico:** transformar o Agro em uma plataforma digital escalável, capaz de expandir produtos e segmentos com velocidade e conversão superior.
+
+**Key Results informados:**
+1. Digitalizar a jornada E2E, reduzindo touch points operacionais de `x` para `y`.
+2. Reduzir o tempo de contratação de uma operação de Crédito Rural, E2E, em `x%`.
+
+**Leitura para a entrevista:**
+
+O foco não é apenas digitalizar telas ou automatizar etapas isoladas. É simplificar a jornada de ponta a ponta, reduzir dependências de intervenção humana e permitir que a plataforma absorva novos produtos e segmentos sem multiplicar a complexidade operacional.
+
+**Contribuições de engenharia a explorar:**
+- mapear a jornada completa e identificar touch points, handoffs e etapas manuais;
+- reduzir fragmentação entre sistemas e equipes;
+- evoluir integrações, automações e arquitetura para suportar escala;
+- acompanhar tempo total da contratação e tempo por etapa;
+- instrumentar a jornada para localizar gargalos, abandono e retrabalho.
+
+**Perguntas para o GPM:**
+- Quais touch points operacionais representam hoje os maiores gargalos?
+- Como é contabilizado o tempo E2E da contratação de Crédito Rural?
+- Quais etapas mais contribuem para o tempo total?
+- A digitalização prioriza redução de intervenção, conversão, velocidade ou os três resultados?
+- Quais produtos e segmentos precisam ser habilitados pela plataforma?
+
+### 14.3 O2 — Estruturar a jornada de contratação Agro com escala e eficiência
+
+**Objetivo estratégico:** estruturar a jornada de contratação Agro garantindo escala com eficiência e experiência em patamares de excelência.
+
+**Key Results informados:**
+1. Reduzir o custo unitário operacional de `x` para `y`.
+2. Melhorar o índice de eficiência em `x` pontos percentuais.
+
+**Key Deliveries informadas:**
+1. Saída full do HUB.
+2. Desidratação do BE em `x%`.
+
+**Leitura para a entrevista:**
+
+Este objetivo aproxima diretamente engenharia de eficiência operacional. A discussão deve conectar simplificação de arquitetura e processos à redução de custo unitário, aumento de produtividade e melhor experiência. As entregas estruturais (HUB e BE) precisam ser explicadas pelo resultado que habilitam, e não somente pela conclusão técnica.
+
+**Contribuições de engenharia a explorar:**
+- entender quais componentes, responsabilidades e etapas serão absorvidos, desligados ou simplificados na saída full do HUB;
+- esclarecer o significado e o escopo de "desidratação do BE" antes de propor soluções ou interpretar a meta;
+- reduzir duplicidade de processamento, integrações desnecessárias e atividades manuais;
+- avaliar custo de sustentação, capacidade, resiliência e complexidade operacional;
+- medir custo por operação e eficiência antes e depois das mudanças.
+
+**Perguntas para o GPM:**
+- Qual é a composição atual do custo unitário operacional e quais fatores mais o influenciam?
+- Como é calculado o índice de eficiência e qual é a linha de base?
+- O que caracteriza o sucesso da saída full do HUB? Quais sistemas, processos ou responsabilidades serão impactados?
+- O que significa exatamente "desidratação do BE", qual escopo está contemplado e como será medido o percentual?
+- Quais riscos de continuidade operacional precisam ser tratados durante essa transição?
+
+### 14.4 O3 — Impulsionar crescimento sustentável, rentabilidade e geração de valor
+
+**Objetivo estratégico:** impulsionar o crescimento sustentável com foco em rentabilidade e geração de valor, alavancando a conversão de contratações na estratégia de expansão de clientes Agro.
+
+**Key Deliveries informadas:**
+1. **BUPF:** habilitar CPR 1.0 para a safra 26/27.
+2. Evoluir `x` capacidades da jornada para impulsionar o crescimento da carteira da **BUPJ** e ex-nicho.
+3. Habilitar novas linhas de negócio e oportunidades estratégicas para acelerar o crescimento sustentável dos ativos Agro. Foi indicado um KR associado a `x` de produção em novos negócios.
+
+**Leitura para a entrevista:**
+
+Aqui a tecnologia aparece como habilitadora direta de crescimento. A conversa deve explorar como a engenharia cria capacidades reutilizáveis e seguras para lançar produtos, ampliar a carteira, melhorar conversão e atender novas oportunidades sem comprometer rentabilidade.
+
+**Contribuições de engenharia a explorar:**
+- transformar necessidades de produto em capacidades de jornada reutilizáveis;
+- reduzir lead time para habilitar novos produtos e regras;
+- construir flexibilidade sem criar complexidade descontrolada;
+- garantir integração entre contratação, formalização, garantias, registros e demais etapas aplicáveis;
+- acompanhar conversão, produção, adoção e rentabilidade das capacidades habilitadas.
+
+**Perguntas para o GPM:**
+- Qual é o escopo funcional esperado para a CPR 1.0 na safra 26/27?
+- Quais capacidades da jornada são prioritárias para o crescimento da carteira BUPJ e ex-nicho?
+- Como são definidos e medidos conversão e crescimento da carteira?
+- Quais novas linhas de negócio têm maior potencial e quais capacidades tecnológicas estão faltando?
+- Como o KR de produção em novos negócios será medido e qual é a meta?
+- Como equilibrar velocidade de lançamento, rentabilidade, risco e sustentabilidade operacional?
+
+### 14.5 O4 — Transformar conformidade regulatória em vantagem operacional
+
+**Objetivo estratégico:** transformar conformidade regulatória em vantagem operacional, com controle automatizado e risco mitigado por design.
+
+**Key Results informados:**
+1. Índice de erros por contrato para Crédito Rural.
+2. Índice de assertividade nos registros B3/SICOR.
+3. Aderência ao mapa de riscos em `x%`.
+
+**Key Delivery informada:**
+1. Súmula: Plataforma de Gestão de Mapa e ferramenta de funding.
+
+**Leitura para a entrevista:**
+
+O objetivo sugere uma mudança de controles corretivos e manuais para controles preventivos, automatizados e incorporados aos fluxos. Conformidade deixa de ser apenas uma obrigação posterior e passa a fazer parte do desenho da jornada e da operação.
+
+**Contribuições de engenharia a explorar:**
+- incorporar validações e regras de negócio nos pontos adequados do fluxo;
+- garantir consistência, integridade e rastreabilidade dos dados;
+- reduzir erros por contrato e divergências em registros B3/SICOR;
+- automatizar evidências, controles e acompanhamento do mapa de riscos;
+- construir alertas e mecanismos de prevenção e detecção;
+- acompanhar exceções, reincidência, correções e riscos residuais.
+
+**Perguntas para o GPM:**
+- Quais são as principais causas dos erros por contrato em Crédito Rural?
+- Em quais etapas surgem divergências nos registros B3/SICOR?
+- O indicador mede erro na origem, erro identificado antes do registro ou erro após o envio?
+- Como é calculada a aderência ao mapa de riscos?
+- O que a Plataforma de Gestão de Mapa e a ferramenta de funding precisam habilitar?
+- Quais controles devem ser preventivos e quais continuarão dependendo de análise ou aprovação humana?
+
+### 14.6 Leitura transversal: como os quatro objetivos se conectam
+
+Os quatro objetivos não devem ser apresentados como iniciativas independentes. Eles formam uma cadeia de capacidades:
+
+1. **O1 — Digitalizar e escalar:** criar uma jornada E2E mais simples, rápida e capaz de suportar expansão.
+2. **O2 — Operar com eficiência:** reduzir custo e esforço para que o crescimento não aumente proporcionalmente a estrutura operacional.
+3. **O3 — Crescer e gerar valor:** usar a plataforma e a eficiência conquistadas para habilitar produtos, segmentos e novas oportunidades.
+4. **O4 — Crescer com controle:** incorporar conformidade, qualidade e gestão de riscos ao desenho da operação.
+
+**Síntese executiva para a entrevista:**
+
+"Minha leitura é que a Visão RT busca construir uma plataforma Agro que consiga crescer sem carregar a mesma proporção de custo e complexidade operacional. Para isso, precisamos digitalizar a jornada de ponta a ponta, simplificar a estrutura de contratação, habilitar novos produtos e incorporar controles regulatórios ao próprio desenho das soluções. A engenharia contribui conectando essas frentes, priorizando capacidades reutilizáveis e garantindo que velocidade e escala não comprometam eficiência, qualidade ou risco."
+
+### 14.7 Como conectar os OKRs à atuação de um coordenador de engenharia
+
+| Responsabilidade da coordenação | Relação com os OKRs |
+|---|---|
+| Traduzir objetivos em capacidades e roadmap técnico | Evita que o time trate entregas isoladas sem entender o resultado esperado. |
+| Gerir dependências entre jornadas, sistemas e equipes | Fundamental para digitalização E2E e saída de estruturas como o HUB. |
+| Priorizar por impacto, risco e custo de oportunidade | Ajuda a equilibrar crescimento, eficiência e compromissos regulatórios. |
+| Desenvolver pessoas e distribuir conhecimento | Aumenta autonomia e capacidade de execução sustentável. |
+| Gerir qualidade, observabilidade e confiabilidade | Reduz erros por contrato, falhas de integração e riscos operacionais. |
+| Medir outcomes e comunicar resultados | Demonstra contribuição efetiva da engenharia para os indicadores da RT. |
+| Negociar escopo, sequência e capacidade | Permite entregar valor incremental sem assumir compromissos inviáveis. |
+
+### 14.8 Indicadores que vale entender antes de propor soluções
+
+Os OKRs recebidos contêm metas ainda não preenchidas. Para uma conversa consistente, buscar linha de base, meta, fórmula, periodicidade, fonte e responsável por cada indicador.
+
+| Indicador | Perguntas de diagnóstico |
+|---|---|
+| Touch points operacionais | O que conta como touch point? Quais etapas e intervenções entram na medição? |
+| Tempo E2E de contratação | Qual evento inicia e encerra a contagem? Há segmentação por produto ou perfil? |
+| Custo unitário operacional | Quais custos entram no cálculo? O denominador é contrato, operação ou cliente? |
+| Índice de eficiência | Qual é a fórmula, a linha de base e a periodicidade? |
+| Percentual de desidratação do BE | Qual é o escopo do BE e qual medida representa sua desidratação? |
+| Capacidades de jornada | O que caracteriza uma capacidade concluída e como sua contribuição ao crescimento será medida? |
+| Produção em novos negócios | Qual unidade, período e critério definem produção? |
+| Erros por contrato | Como são classificados os erros e qual é o denominador? |
+| Assertividade B3/SICOR | Como são contabilizados registros corretos, divergências e correções? |
+| Aderência ao mapa de riscos | Qual é a metodologia, o universo de riscos e a evidência de aderência? |
+
+### 14.9 Como escolher o que aprofundar na entrevista
+
+Não é necessário recitar os quatro objetivos. Priorize a conversa conforme a responsabilidade da cadeira e os desafios apresentados pelo GPM.
+
+- Se a conversa enfatizar jornada e experiência, aprofunde O1.
+- Se enfatizar custo, produtividade e estrutura operacional, aprofunde O2.
+- Se enfatizar expansão de carteira, CPR, novos produtos e conversão, aprofunde O3.
+- Se enfatizar risco, controles, qualidade e regulação, aprofunde O4.
+
+Em qualquer objetivo, procure conectar três pontos: **qual resultado o negócio quer, qual capacidade de engenharia precisa existir e como a liderança vai acompanhar o impacto.**
+
+### 14.10 Pendências para validar antes da entrevista
+
+- [ ] Confirmar os valores de `x` e `y` para redução de touch points operacionais.
+- [ ] Confirmar a meta percentual de redução do tempo E2E de Crédito Rural.
+- [ ] Confirmar a linha de base e a meta de custo unitário operacional.
+- [ ] Confirmar a meta de evolução do índice de eficiência em pontos percentuais.
+- [ ] Entender escopo, critérios de conclusão e dependências da saída full do HUB.
+- [ ] Confirmar o significado, escopo e meta percentual da desidratação do BE.
+- [ ] Confirmar o escopo e os critérios de aceite da CPR 1.0 para a safra 26/27.
+- [ ] Confirmar quais capacidades da jornada serão evoluídas para BUPJ e ex-nicho e a quantidade esperada.
+- [ ] Confirmar quais novas linhas de negócio estão contempladas e a meta/unidade de produção.
+- [ ] Confirmar fórmula, linha de base e meta do índice de erros por contrato.
+- [ ] Confirmar fórmula e meta de assertividade dos registros B3/SICOR.
+- [ ] Confirmar a meta de aderência ao mapa de riscos.
+- [ ] Entender o escopo da Plataforma de Gestão de Mapa e da ferramenta de funding.
+- [ ] Validar com o GPM quais objetivos e KRs são mais críticos para a cadeira e para o ciclo atual.
+
+**Regra de uso na entrevista:** apresentar estes OKRs como contexto estratégico recebido para estudo, confirmar entendimento com o GPM e evitar afirmar que conhece metas, fórmulas ou prioridades que ainda não foram validadas.
