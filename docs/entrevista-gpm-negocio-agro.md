@@ -328,3 +328,194 @@ A conversa deve deixar claro que minha atuação como coordenador não seria ape
 **Execução:** priorizar, negociar, desenvolver pessoas, entregar incrementalmente e medir resultados.
 
 > **A responsabilidade da coordenação é transformar objetivos de negócio em execução de engenharia com clareza, previsibilidade e impacto mensurável.**
+
+
+---
+
+## 12. Aprendizados da mentoria com Caio (GTM) para a conversa com GPMs
+
+Esta seção registra orientações práticas compartilhadas em mentoria sobre entrevistas para posições de liderança. São recomendações de preparação e posicionamento, não critérios oficiais de seleção do Itaú.
+
+### 12.1 Prepare a abertura, não um roteiro de respostas
+
+As perguntas podem variar bastante entre entrevistadores. Em vez de tentar decorar respostas para todas as possibilidades, prepare uma apresentação inicial consistente e flexível.
+
+Antes da conversa:
+- organize os principais marcos da trajetória;
+- selecione contribuições e experiências mais próximas dos desafios da cadeira;
+- conecte naturalmente sua trajetória à posição pretendida;
+- deixe clara a evolução de escopo e responsabilidade;
+- pratique a narrativa, mas evite recitá-la de forma mecânica.
+
+A abertura é uma oportunidade de demonstrar que você compreende o desafio da posição e consegue relacionar sua experiência ao contexto da comunidade.
+
+### 12.2 Troque a linguagem de output pela linguagem de outcome
+
+Uma entrega técnica, por si só, não explica o valor produzido. Ao apresentar um case, conecte:
+
+| Output (o que foi entregue) | Outcome (o que mudou) |
+|---|---|
+| Modernização de um componente | Melhoria comprovada de desempenho, operação ou experiência |
+| Automação de uma etapa | Redução de esforço manual, tempo ou custo operacional |
+| Nova integração | Mais fluidez na jornada, menos retrabalho ou maior capacidade |
+| Correção de incidente | Redução de risco, recorrência ou impacto ao cliente |
+
+Para cada história, procure levantar:
+- volume de operações ou clientes impactados;
+- volume financeiro envolvido, quando pertinente e autorizado;
+- tempo de ciclo antes e depois;
+- redução de erros, retrabalho ou intervenção manual;
+- indicadores de qualidade, disponibilidade e experiência;
+- capacidade de negócio habilitada pela entrega.
+
+Não invente números. Se não houver métrica disponível, explique o impacto qualitativo e indique qual indicador deveria ser acompanhado.
+
+**Pergunta de checagem:** se eu retirar os nomes das tecnologias da minha história, ainda fica claro por que essa entrega importou para o negócio?
+
+### 12.3 Demonstre liderança exercida, mesmo sem cargo formal de gestor
+
+Liderança não depende exclusivamente de uma posição hierárquica. A experiência como Tech Lead já pode oferecer evidências relevantes, desde que sejam apresentadas pelo impacto gerado por meio de outras pessoas.
+
+Prepare exemplos reais de quando:
+- mobilizou pessoas em torno de um objetivo;
+- influenciou decisões sem autoridade formal;
+- desenvolveu autonomia ou ajudou alguém a evoluir;
+- alinhou equipes com interesses ou interpretações diferentes;
+- distribuiu conhecimento e reduziu dependência de uma referência;
+- assumiu responsabilidade por um resultado coletivo.
+
+Diferencie claramente liderança técnica, gestão formal de pessoas e resultados alcançados coletivamente. Não apresente como gestão formal uma responsabilidade que ainda não exerceu.
+
+### 12.4 Explique a motivação para coordenação com pragmatismo
+
+Evite uma justificativa baseada somente em gostar de pessoas ou considerar gestão uma evolução natural da carreira.
+
+Uma motivação consistente combina:
+- vontade de ampliar o impacto por meio das pessoas;
+- interesse em desenvolver talentos e autonomia;
+- capacidade de mobilizar equipes e áreas em torno de prioridades;
+- responsabilidade por decisões, conflitos, riscos e resultados;
+- compreensão de que a função também envolve conversas difíceis, cobrança, priorização e trade-offs.
+
+**Formulação-base para adaptar à sua experiência:**
+
+"Quero ampliar o impacto que gero por meio da engenharia. Como Tech Lead, já atuo em decisões técnicas, alinhamento entre equipes e desenvolvimento de pessoas. Na coordenação, quero assumir uma responsabilidade mais ampla por criar condições para que os times entreguem resultados sustentáveis, desenvolver novas referências e conectar prioridades de engenharia às necessidades do negócio. Entendo que isso também envolve decisões difíceis, gestão de conflitos e responsabilidade pela performance coletiva."
+
+### 12.5 Apresente IA como alavanca de negócio em três níveis
+
+Na conversa com GPMs, reduza o excesso de terminologia técnica e explique como a IA pode produzir valor. A mentoria organizou o tema em três níveis:
+
+**Nível 1 — IA na produtividade individual**
+- apoiar análise, escrita, síntese e tarefas repetitivas;
+- reduzir esforço operacional individual;
+- liberar tempo para atividades de maior valor.
+
+**Nível 2 — IA no ciclo de desenvolvimento de software**
+- apoiar entendimento, implementação, testes, revisão e manutenção;
+- aumentar produtividade, qualidade e velocidade;
+- reduzir retrabalho e tempo de entrega;
+- acelerar o time to market e diminuir o risco de impacto ao cliente.
+
+**Nível 3 — IA como capacidade do produto**
+- criar funcionalidades e experiências apoiadas por IA;
+- melhorar jornadas e decisões para clientes ou usuários;
+- habilitar novas capacidades de negócio.
+
+Ao falar de cada nível, conecte a oportunidade a um problema real, ao resultado esperado e a uma forma de medir valor. Ferramentas, agentes, modelos e MCP podem aparecer quando forem relevantes, mas não devem substituir a explicação do benefício.
+
+### 12.6 Adapte a conversa ao interlocutor
+
+Com o GPM de negócio:
+- priorize objetivos, OKRs, clientes, jornadas e indicadores;
+- traduza arquitetura e dívida técnica em risco, custo, eficiência e capacidade de evolução;
+- explique como engenharia pode acelerar resultados e melhorar a experiência;
+- demonstre curiosidade sobre as prioridades e os trade-offs do negócio.
+
+Com gerentes e superintendentes:
+- demonstre domínio dos desafios concretos da cadeira;
+- mostre que acompanha os principais temas de engenharia e negócio;
+- explique por que suas experiências o prepararam para aquele conjunto de desafios;
+- não tente impressionar com uma estratégia grandiosa sem diagnóstico ou evidências.
+
+Para uma posição de coordenação, é mais importante demonstrar entendimento do contexto, capacidade de execução e maturidade de decisão do que apresentar uma transformação mirabolante.
+
+### 12.7 Use experiências de áreas diferentes quando o aprendizado for relevante
+
+Não é necessário limitar os exemplos à área atual. Experiências em outras comunidades, produtos ou equipes ampliam o repertório, desde que exista conexão explícita com o desafio da vaga.
+
+Use a sequência:
+1. Qual era o contexto e o desafio da experiência anterior?
+2. O que você aprendeu ou desenvolveu naquela situação?
+3. Qual é a relação desse aprendizado com o desafio atual?
+4. Como aplicaria essa experiência no contexto da posição?
+
+Evite listar áreas pelas quais passou sem explicar a relevância. O critério não é a quantidade de áreas conhecidas, mas a capacidade de transferir aprendizados úteis.
+
+### 12.8 Demonstre atualização contínua e honestidade intelectual
+
+Esteja preparado para explicar como acompanha a evolução da engenharia e da IA:
+- livros, cursos, artigos, podcasts e comunidades;
+- estudos e experimentos aplicados;
+- aprendizados recentes e como influenciaram decisões;
+- temas que ainda precisa aprofundar.
+
+Se não conhece um assunto, não tente sustentar uma resposta artificial. Reconheça o limite, explique o que conhece de temas próximos e demonstre como investigaria ou aprenderia. Confiança depende de transparência e consistência.
+
+### 12.9 Prepare-se mentalmente e construa familiaridade antes da entrevista
+
+A ansiedade é esperada. A recomendação prática da mentoria foi reservar um intervalo antes da conversa:
+- evitar encaixar outra reunião imediatamente antes;
+- chegar alguns minutos mais cedo;
+- organizar o ambiente e as anotações;
+- respirar e revisar os pontos principais;
+- buscar uma abertura natural, sem excesso de formalidade.
+
+No longo prazo, construir relacionamento profissional frequente com lideranças, por meio de conversas legítimas sobre carreira, contexto e desafios, reduz a sensação de que a entrevista é o primeiro contato. O objetivo é conhecer melhor as prioridades e criar confiança, não fazer networking artificial.
+
+### 12.10 Entenda o processo seletivo e faça perguntas legítimas
+
+É adequado perguntar ao responsável pela vaga como o processo está estruturado:
+- quais são as fases;
+- quais conversas pertencem à mesma fase;
+- em que momento ocorre a consolidação das avaliações;
+- quais são os próximos passos e prazos previstos.
+
+Não presuma que uma conversa positiva significa aprovação em uma etapa. O desenho pode variar: várias entrevistas podem compor uma única fase, ou pode haver eliminação entre fases. Perguntar ajuda a calibrar expectativas e preparação.
+
+### 12.11 Reflexão orientada, em vez de memorização
+
+Antes das entrevistas, reserve tempo para refletir e registrar:
+- o que já fez e considera relevante;
+- o que não funcionou e o que aprendeu;
+- sua visão de tecnologia e negócio;
+- sua visão sobre IA;
+- os desafios atuais da área e da cadeira;
+- por que acredita estar preparado;
+- quais lacunas ainda precisa desenvolver.
+
+Use essas reflexões como repertório para construir respostas específicas. Não tente ensaiar todas as perguntas possíveis.
+
+### 12.12 Perguntas adicionais para aprofundar com o GPM
+
+Além das perguntas já listadas neste documento, considere:
+1. Quais resultados de negócio são mais importantes para a comunidade neste momento?
+2. Onde a engenharia pode gerar mais impacto além de cumprir o roadmap?
+3. Quais indicadores mostram que uma melhoria tecnológica realmente beneficiou o cliente ou a operação?
+4. Onde há maior oportunidade de reduzir tempo, custo, erros ou trabalho manual?
+5. Como o negócio enxerga o potencial da IA para produtividade, evolução do desenvolvimento e novos produtos?
+6. Quais são hoje os maiores atritos entre as prioridades de negócio e a capacidade de engenharia?
+7. O que você espera de um coordenador para que a relação entre Produto e Engenharia funcione melhor?
+
+## 13. Checklist complementar inspirado na mentoria
+
+- [ ] Preparar uma abertura de trajetória conectada à cadeira, sem decorar um discurso rígido.
+- [ ] Separar três a cinco cases e explicitar output, outcome e contribuição individual.
+- [ ] Levantar métricas reais: volume, tempo, custo, qualidade, risco e impacto no cliente.
+- [ ] Preparar exemplos de liderança sem autoridade formal e desenvolvimento de pessoas.
+- [ ] Construir uma motivação pragmática para assumir coordenação.
+- [ ] Organizar a visão de IA nos três níveis: produtividade individual, ciclo de desenvolvimento e produto.
+- [ ] Relacionar experiências de outras áreas aos desafios atuais, explicando o aprendizado transferível.
+- [ ] Preparar uma resposta honesta sobre como se mantém atualizado e quais lacunas está estudando.
+- [ ] Conversar com a liderança atual para entender desafios reais da cadeira e expectativas do negócio.
+- [ ] Confirmar as fases do processo seletivo com o responsável pela vaga.
+- [ ] Reservar tempo para preparação mental antes de cada entrevista.
