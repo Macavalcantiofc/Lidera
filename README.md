@@ -73,6 +73,21 @@ A skill permite conduzir simulações progressivas com:
 
 O material consolida sinais públicos sobre cultura, liderança e posições de engenharia do Itaú e os transforma em uma régua prática de preparação.
 
+### Entrevista com GPM de Negócio — Comunidade Agro
+
+[Preparação para entrevista com GPM de Negócio](docs/entrevista-gpm-negocio-agro.md)
+
+Guia específico para a conversa com a liderança de negócio, incluindo:
+- investigação dos OKRs da comunidade e da RT;
+- desafios de conformidade regulatória, modernização, eficiência operacional e experiência do cliente;
+- repertório de produtos e cadeia do Agro;
+- desafios de priorização, capacidade e execução;
+- histórias profissionais conectadas a impacto no negócio;
+- tradução de dívida técnica em risco e resultado;
+- perguntas estratégicas para o GPM e checklist pré-entrevista.
+
+Os desafios anotados na mentoria estão identificados como pontos a validar, não como OKRs ou prioridades oficiais confirmadas.
+
 ### Front de leitura
 
 [**Abrir o Lidera Interview Lab**](docs/index.html)
